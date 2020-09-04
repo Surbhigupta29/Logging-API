@@ -1,0 +1,18 @@
+{
+  "name": "logging_time",
+  "version": "1.0.0",
+  "description": "log performance of the API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Surbhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "log-to-file": "^2.0.2",
+    "nodemon": "^2.0.4",
+    "winston": "^3.3.3"
+  }
+}

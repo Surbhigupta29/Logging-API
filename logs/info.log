@@ -1,0 +1,25 @@
+2020-09-05 01:56:57.256: info: Server is listening on 3000
+2020-09-05 01:58:35.427: info: Server is listening on 3000
+2020-09-05 01:59:01.779: info: Server is listening on 3000
+2020-09-05 01:59:16.441: info: Request Info: /salesTeam - GET
+2020-09-05 01:59:16.455: info: Response Info /salesTeam - GET
+2020-09-05 01:59:16.467: info: Elapsed Time:14ms - /salesTeam - GET
+2020-09-05 01:59:25.068: info: Request Info: /salesTeam/p - GET
+2020-09-05 01:59:25.076: info: Response Info /salesTeam/p - GET
+2020-09-05 01:59:25.095: info: Elapsed Time:8ms - /salesTeam/p - GET
+2020-09-05 02:07:20.432: info: Server is listening on 3000
+2020-09-05 02:07:26.430: info: Request: /salesTeam/p - GET
+2020-09-05 02:07:26.447: info: Response: /salesTeam/p - GET
+2020-09-05 02:07:26.450: info: Elapsed Time:17ms - /salesTeam/p - GET
+2020-09-05 02:07:44.243: info: Request: /salesTeam/p - GET
+2020-09-05 02:07:44.249: info: Response: /salesTeam/p - GET
+2020-09-05 02:07:44.290: info: Elapsed Time:6ms - /salesTeam/p - GET
+2020-09-05 02:07:47.695: info: Request: /salesTeam/p - GET
+2020-09-05 02:07:47.700: info: Response: /salesTeam/p - GET
+2020-09-05 02:07:47.702: info: Elapsed Time:5ms - /salesTeam/p - GET
+2020-09-05 02:07:56.707: info: Request: /salesTeam/p - GET
+2020-09-05 02:07:56.710: info: Response: /salesTeam/p - GET
+2020-09-05 02:07:56.716: info: Elapsed Time:3ms - /salesTeam/p - GET
+2020-09-05 02:08:01.436: info: Request: /salesTeam/ - GET
+2020-09-05 02:08:01.444: info: Response: /salesTeam/ - GET
+2020-09-05 02:08:01.468: info: Elapsed Time:8ms - /salesTeam/ - GET
